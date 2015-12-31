@@ -1,2 +1,4 @@
 # hello-world
-basic testing...
+This is a better description for a test project doing absolutely nothing.
+
+## Horray!
